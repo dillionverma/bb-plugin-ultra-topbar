@@ -1,6 +1,6 @@
 {
   "name": "bb-plugin-handoff",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Start threads, review pull requests, and continue work from one compact thread toolbar.",
   "type": "module",
   "license": "MIT",
